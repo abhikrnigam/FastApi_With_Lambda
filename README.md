@@ -12,3 +12,7 @@ Run these commands from the project directory in terminal:
 * Upload the .zip file to Lambda from the Aws Console to a Lambda Function. 
 * Make sure that the Lambda function has a Function Url - set it to NONE for authN for testing
 * Edit the handler in lambda to `main.handler` - check the CloudWatch Logs to see why it fails. 
+
+
+the link to the deployed lambda function on aws is : 
+https://6n2svxv27t35zdgyzxchcolz2i0rfzgf.lambda-url.eu-north-1.on.aws/
